@@ -7,9 +7,9 @@ Investigate and identify patterns and connections in our data and asking the Rig
 Water Crisis Solutions: Use insights to address the water crisis. Investigate and assess water source quality, pollution issues, and more.
 Collaboration: Remember, every bit of information contributes to the bigger puzzle. Work collectively to unravel the secrets within the records.
 # Important Steps
-Get to Know Our Data: Understand the dataset thoroughly.
-Dive into Water Sources: Explore details related to water sources.
-Unpack Visits to Water Sources: Analyze information about visits to water sources.
-Assess Water Source Quality: Evaluate the quality of water sources.
-Investigate Pollution Issues: Identify and address any pollution concerns.
-Deeper Dive: Be curious to uncover insightful solututions for the people.
+#### Get to Know Our Data: Understand the dataset thoroughly.
+#### Dive into Water Sources: Explore details related to water sources.
+#### Unpack Visits to Water Sources: Analyze information about visits to water sources.
+#### Assess Water Source Quality: Evaluate the quality of water sources.
+#### Investigate Pollution Issues: Identify and address any pollution concerns.
+#### Deeper Dive: Be curious to uncover insightful solututions for the people.
